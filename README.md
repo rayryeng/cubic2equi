@@ -35,6 +35,10 @@ outIm = cubic2equi(top, bottom, left, right, front, back);
 
 However, if you are in doubt, I have included a sample test script so you can run it and see what the results are.
 
+# Assumptions
+
+No error checking is involved with this code.  This assumes that all cubic images are of the same size `n x n` and that the images are in colour.  Should you require a monochromatic version of the code, simply comment out those lines of code that require access to more than one channel.
+
 # What is included in this repository
 1. The cubic-to-equirectangular conversion script
 2. An example script that you can use to see the script in action
