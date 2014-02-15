@@ -1,4 +1,4 @@
-equi2cubic
+cubic2equi
 ==========
 
 This is a MATLAB script that converts cubic images into an equirectangular representation.
