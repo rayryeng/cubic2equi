@@ -43,6 +43,3 @@ No error checking is involved with this code.  This assumes that all cubic image
 1. The cubic-to-equirectangular conversion script
 2. An example script that you can use to see the script in action
 3. An example set of 6 cubic images (pulled from Paul Bourke's webpage)
-
-# License
-This code is protected under the MIT License.  You may feel free to use the code in any way, shape, or form and can modify it to your heart's content.  You may also include the code in any applications that you develop without releasing any of your code publicly (as per the GPL).  The only thing I request is that you cite where the source came from and give me credit whenever you decide to use it.  Thanks!
