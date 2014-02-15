@@ -23,7 +23,7 @@ This code would have not been made possible without the following sources:
 
 # Requires
 
-Any version of MATLAB with the Image Processing Toolbox installed.  Alternatively, this could should be Octave friendly so you can use that environment if you like.
+Any version of MATLAB with the Image Processing Toolbox installed.  Alternatively, this should be Octave friendly so you can use that environment if you like.
 
 # How to run the code
 
